@@ -1,2 +1,2 @@
 # HTML-AI-EXPO
-Yas
+Hotdog Rating Website
